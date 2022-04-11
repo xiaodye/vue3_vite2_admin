@@ -10,9 +10,11 @@
 </template>
 
 <script setup>
+import { ref, reactive } from "vue"
+console.log("nice")
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .home {
   min-height: 100vh;
   background-color: #fff;
