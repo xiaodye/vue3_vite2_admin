@@ -1,0 +1,26 @@
+{
+  "name": "vue3_vite2_admin",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "element-plus": "^2.1.8",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.14",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.0",
+    "prettier": "2.6.2",
+    "sass": "^1.50.0",
+    "sass-loader": "^12.6.0",
+    "unplugin-auto-import": "^0.7.0",
+    "unplugin-vue-components": "^0.19.1",
+    "vite": "^2.9.0"
+  }
+}
